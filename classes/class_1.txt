@@ -1,0 +1,15 @@
+Class: Table
+
+Attributes:
+
+1. number_of_legs (integer)
+2. table_length_in_feet (float)
+3. is_occupied (boolean)
+4. table_color (string)
+
+Methods:
+
+1. paint_table (new color - changes the string table_color)
+2. new_party (sit a new party at the table - sets value of is_occupied to true)
+3. lengthen_table (adds 1 to table_length)
+4. add_table_leg (adds 1 to number_of_legs)
