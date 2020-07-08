@@ -1,0 +1,15 @@
+Instance: Sprite
+
+Values of each attribute:
+
+soda_for_sale = true
+color_of_soda = "clear"
+cost_of_soda = "0.99"
+amount_of_soda_in_oz = 8
+
+Results of methods:
+
+drink_soda: amount_of_soda_in_oz-1
+increase_price: cost_of_soda + 0.50
+add_food_coloring: color_of_soda = "brown"
+remove_from_menu: soda_for_sale = false
