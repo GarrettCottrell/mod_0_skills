@@ -1,0 +1,15 @@
+Chateau Traditional Cherry Formal Dining Room Table
+
+Attribute Values:
+
+number_of_legs = 4
+table_length_in_feet = 5.5
+is_occupied = false
+table_color = "brown"
+
+Results of Method:
+
+paint_table = changes table_color to "red"
+new_party = changes is_occupied to "true"
+lengthen_table = table_length_in_feet+1
+add_table_leg = number_of_legs + 1
