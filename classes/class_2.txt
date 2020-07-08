@@ -1,0 +1,15 @@
+Class: Soda
+
+Attributes:
+
+1. soda_for_sale (boolean)
+2. color_of_soda (string)
+3. cost_of_soda (float)
+4. amount_of_soda_in_oz (integer)
+
+Methods:
+
+1. drink_soda (reduces the value of amount_of_soda_in_oz)
+2. increase_price (increases the value of cost_of_soda)
+3. add_food_coloring (changes the value of color_of_soda)
+4. remove_from_menu (changes the value of soda_for_sale to false)
