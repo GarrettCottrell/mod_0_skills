@@ -1,5 +1,5 @@
 food = "apples"
-is_delicious = "true"
+is_delicious = true
 food = "steak"
 num_2 = 4
 num_7 = 13
